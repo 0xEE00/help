@@ -40,6 +40,6 @@ VAT Book can be previewed by choosing button VAT Review on Process.
 2. Enter Date Filter to filter VAT Entries by Posting Date.
 
 ## To export data
-VAT Book can be printed by choosing button VAT Book on Report. Before printing choose VAT Book Code and additional filters if needed.
-VAT Book can be exported to XML by choosing button Export to XML. Before exporting enter Date Filter, PPPDV Date and Responsible Person.
-VAT Book can be exported to TXT by choosing button Export to TXT.
+- VAT Book can be printed by choosing button VAT Book on Report. Before printing choose VAT Book Code and additional filters if needed.
+- VAT Book can be exported to XML by choosing button Export to XML. Before exporting enter Date Filter, PPPDV Date and Responsible Person.
+- VAT Book can be exported to TXT by choosing button Export to TXT. Before exporting choose VAT Book Code and additional filters if needed.
