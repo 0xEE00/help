@@ -29,7 +29,7 @@ Choose New to create new VAT Book Groups:
 
 ### VAT Book Setup
 VAT Book Setup defines content of VAT Books. For each combination of VAT Book Groups Code and VAT Identifier, you can define which columns from VAT Entries will be printed.
-1. Go to columnt of VAT Book.
+1. Go to columns of VAT Book.
 2. Choose Operator that defines how value from VAT Entries will be shown.
 3. Choose Value that defines column in VAT Entries that will be shown.
 4. Choose Condition to filter VAT Entries by additional fields that are in VAT Entries such as Type: Purchase or Sale.
