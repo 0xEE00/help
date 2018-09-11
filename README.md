@@ -7,6 +7,6 @@ On top of Base Code partners has delivered extension called Adriatic Localizatio
 Application|Help Link
 ----|----
 Business Central|[Link](https://docs.microsoft.com/en-us/dynamics365/business-central/)
-Croatia Local Functionality|[Link](HR/README.md)
-Serbia Local Functionality|[Link](RS/README.md)
-Slovenia Local Functionality|[Link](SI/README.md)
+Croatia Local Functionality|[Link](hr-HR/README.md)
+Serbia Local Functionality|[Link](sr-Latn-RS/README.md)
+Slovenia Local Functionality|[Link](sl-SI/README.md)
