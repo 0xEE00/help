@@ -5,7 +5,7 @@ The following topics describe local functionality that is unique to the Croatian
 ## In This Section
 
 [VAT Reporting](VATReporting.md)<br>
-[Report VAT to Tax Authorities](ReportVAT.md)
+[Report VAT to Tax Authorities](ReportVAT.md)<br>
 [Unpaid Receivables] (Unpaid Receivables.md) 
 
 ## See also
