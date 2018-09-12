@@ -22,9 +22,9 @@ Choose New to create new VAT Book Groups:
 4. Choose Group Type for VAT Book Group to define how VAT Books should be printed:
 - VAT Entries to print detailed VAT Book.
 - Total to print only sum of VAT Entries.
-5. Choose Totaling from list of VAT Books if Group Type Total is chosen.
-6. Enter Tag Name to prepare export of VAT Book.
-7. Choose Include Columns from list of preset Columns.
+5. Choose Totaling from list of VAT Books if Group Type Total is chosen. This function is used only in Serbia.
+6. Enter Tag Name to prepare export of VAT Book. This function is used only in Serbia.
+7. Choose Include Columns from list of preset Columns. This function is used only in Serbia.
 8. After line is inserted choose VAT Identifiers by choosing Process in ribbon. Enter list of all VAT Identifiers that will be printed on VAT Books.
 
 ### VAT Book Setup
@@ -41,5 +41,5 @@ VAT Book can be previewed by choosing button VAT Review on Process.
 
 ## To export data
 - VAT Book can be printed by choosing button VAT Book on Report. Before printing choose VAT Book Code and additional filters if needed.
-- VAT Book can be exported to XML by choosing button Export to XML. Before exporting enter Date Filter, PPPDV Date and Responsible Person.
-- VAT Book can be exported to TXT by choosing button Export to TXT. Before exporting choose VAT Book Code and additional filters if needed.
+- VAT Book can be exported to XML by choosing button Export to XML. Before exporting enter Date Filter, PPPDV Date and Responsible Person. This function is used only in Serbia.
+- VAT Book can be exported to TXT by choosing button Export to TXT. Before exporting choose VAT Book Code and additional filters if needed. This function is used only in Slovenia.
