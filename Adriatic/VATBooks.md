@@ -4,7 +4,7 @@ This topic describes the reports in Business Central that you can use to submit 
 
 VAT Books functionality is used in addition to the periodic VAT statements that company submit in order to settle VAT. Tax Authority requires to submit periodic reports of transactions including VAT. VAT books for Tax Authority and internal demand can be created through VAT books setup. Primary aim of this feature was to simplify and improve application setup and make it user friendly.
 
-## To create new VAT Book
+## Create new VAT Book
 
 1. From Accountant Role Center select VAT Books from the ribbon. 
 2. Enter new code and description for newly created VAT Book by choosing New from the ribbon.
