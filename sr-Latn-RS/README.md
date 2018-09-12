@@ -4,8 +4,8 @@ The following topics describe local functionality that is unique to the Serbian 
 
 ## In This Section
 
-[VAT Reporting](VATReporting.md)<br>
-[Report VAT to Tax Authorities](ReportVAT.md)
+[VAT Reporting](../Adriatic/VATBooks.md)<br>
+[Forced Debit/Credit Posting](ForcedDebitCreditPosting.md)
 
 ## See also
 
