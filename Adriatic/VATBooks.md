@@ -12,7 +12,7 @@ VAT Books functionality is used in addition to the periodic VAT statements that 
 ### Columns Setup
 To create columns that will be printed on VAT Book choose Column Name Setup on Process action:
 1. Enter Column number to define sequence of columns that will be printed in VAT Books.
-2. Enter Description to define colums that will be printed in VAT Books.
+2. Enter Description to define columns that will be printed in VAT Books.
 
 ### VAT Book Groups
 Choose New to create new VAT Book Groups:
