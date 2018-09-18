@@ -5,7 +5,8 @@ The following topics describe local functionality that is unique to the Slovenia
 ## In This Section
 
 [VAT Reporting](../Adriatic/VATBooks.md)<br>
-[Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)
+[Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)<br>
+[Informative VAT](InformativeVAT.md)
 
 ## See also
 
