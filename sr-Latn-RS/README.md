@@ -6,6 +6,8 @@ The following topics describe local functionality that is unique to the Serbian 
 
 [VAT Reporting](../Adriatic/VATBooks.md)<br>
 
+[VAT Date](/Adriatic/VATDate.md)<br>
+
 [Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)<br>
 
 [Return Orders](ReturnOrders.md)

@@ -6,6 +6,8 @@ The following topics describe local functionality that is unique to the Slovenia
 
 [VAT Reporting](../Adriatic/VATBooks.md)<br>
 
+[VAT Date](/Adriatic/VATDate.md)<br>
+
 [Informative VAT](InformativeVAT.md)<br>
 
 [Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)

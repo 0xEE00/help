@@ -6,6 +6,8 @@ The following topics describe local functionality that is unique to the Croatian
 
 [VAT Reporting](../Adriatic/VATBooks.md)<br>
 
+[VAT Date](/Adriatic/VATDate.md)<br>
+
 [Unpaid Receivables](UnpaidReceivables.md)<br>
 
 [Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)<br>
