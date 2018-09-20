@@ -10,10 +10,10 @@ VAT Books functionality is used in addition to the periodic VAT statements that 
 2. Choose New from ribbon.
 3. Enter Table ID 254.
 4. Choose Field ID to enable filters when creating VAT Books. Fields can be added:
-    - 6 Document Type
-    - 7 Type
-    - 59 EU Service
-    - 13062602 EU Customs Procedure.
+    - 6: Document Type
+    - 7: Type
+    - 59: EU Service
+    - 13062602: EU Customs Procedure.
 
 ## Create new VAT Book
 
