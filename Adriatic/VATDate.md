@@ -10,7 +10,7 @@ VAT Date is added to General Journal, Sales and Purchase documents. When posting
 2. Enter Sales VAT Unrealized Account. This account will be used for posting unrealized reverse charge VAT (VAT Entry with Type Sale).
 3. Enter Sales VAT Account. This account will be used for posting realized reverse charge VAT (VAT Entry with Type Sale).
 
-## Post Sales Invoice
+## Sales Invoice
 
 1. Open Sales document.
 2. Enter data about customer and items. 
@@ -21,16 +21,13 @@ VAT Date is added to General Journal, Sales and Purchase documents. When posting
 
 1. Go to Posted Sales Invoice.
 2. Check field VAT Date.
-3. Print Sales Invoice. Field VAT Date is added to print.
+3. Print Sales Invoice. Field VAT Date is added to printout.
 
-## Post Purchase Invoice
+## Purchase Invoice
 
 1. Open Purchase document.
 2. Enter data about vendor and items. 
 3. Enter VAT Date.
 4. Post Purchase Invoice on action.
-
-## Posted Purchase Invoice
-
-1. Go to Posted Purchase Invoice.
-2. Check field VAT Date.
+5. Go to Posted Purchase Invoice.
+6. Check field VAT Date.
