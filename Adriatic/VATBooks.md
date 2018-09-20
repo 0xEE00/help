@@ -4,6 +4,17 @@ This topic describes the reports in Business Central that you can use to submit 
 
 VAT Books functionality is used in addition to the periodic VAT statements that company submit in order to settle VAT. Tax Authority requires to submit periodic reports of transactions including VAT. VAT books for Tax Authority and internal demand can be created through VAT books setup. Primary aim of this feature was to simplify and improve application setup and make it user friendly.
 
+## Add Dynamic Request Fields
+
+1. Open Dynamic Request Page Fields.
+2. Choose New from ribbon.
+3. Enter Table ID 254.
+4. Choose Field ID to enable filters when creating VAT Books. Fields can be added:
+    - 6 Document Type
+    - 7 Type
+    - 59 EU Service
+    - 13062602 EU Customs Procedure.
+
 ## Create new VAT Book
 
 1. From Accountant Role Center select VAT Books from the ribbon. 
