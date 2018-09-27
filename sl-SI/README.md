@@ -20,7 +20,7 @@ The following topics describe local functionality that is unique to the Slovenia
 
 [FAS Report](FASReport.md)<br>
 
-[PDO Report](PDOReport.md)<br>
+[Delivery Declaration Report](PDOReport.md)<br>
 
 [FAS Report](FASReport.md)<br>
 
