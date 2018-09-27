@@ -14,7 +14,17 @@ The following topics describe local functionality that is unique to the Slovenia
 
 [Sales Documents](/Adriatic/SalesDocuments.md)<br>
 
-[Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)
+[Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)<br>
+
+[VIES Report](VIESReport.md)<br>
+
+[FAS Report](FASReport.md)<br>
+
+[PDO Report](PDOReport.md)<br>
+
+[FAS Report](FASReport.md)<br>
+
+[BST Report](BSTRerpot.md)<br>
 
 ## See also
 
