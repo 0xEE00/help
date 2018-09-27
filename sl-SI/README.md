@@ -24,7 +24,7 @@ The following topics describe local functionality that is unique to the Slovenia
 
 [FAS Report](FASReport.md)<br>
 
-[BST Report](BSTRerpot.md)<br>
+[BST Report](BSTReport.md)<br>
 
 ## See also
 

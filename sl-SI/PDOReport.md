@@ -1,4 +1,4 @@
-# How To: Prepare PDO report
+# How To: Prepare Delivery Declaration Report
 
 This topic describes how to prepare PD-O report and prepare the xml data file according to Slovene legislation.
 
