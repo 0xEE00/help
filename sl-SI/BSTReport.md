@@ -15,7 +15,7 @@ This topic describes how to prepare BST report, which is used to report services
 ## Populate master tables 
 
 1. On Customer and Vendor cards populate fields Country/Region Code.
-2. On relevatnt G/L Account cards populate fields BST Code. In order to apply any posting restrictions, select an option in fields BST Value Posting.
+2. On relevant G/L Account cards populate fields BST Code. In order to apply any posting restrictions, select an option in fields BST Value Posting.
 
 ## Post some financial transactions
 

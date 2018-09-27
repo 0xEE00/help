@@ -15,8 +15,8 @@ This topic describes how to prepare FAS report and prepare the xml data file as 
 ## Populate master tables wih FAS Sector and Instrument
 
 1. On Customer and Vendor cards populate field FAS Sector Code.
-2. On relevatnt G/L Account cards place a check in field FAS Account. Select an option in FAS Type field. Populate fields FAS Instrument Code and FAS Sector Code. In order to apply any posting restrictions, select an option in fields FAS Sector Posting and FAS Instrument Posting.
-3. On relevatnt Bank Account cards populate fields FAS Instrument Code and FAS Sector Code.
+2. On relevant G/L Account cards place a check in field FAS Account. Select an option in FAS Type field. Populate fields FAS Instrument Code and FAS Sector Code. In order to apply any posting restrictions, select an option in fields FAS Sector Posting and FAS Instrument Posting.
+3. On relevant Bank Account cards populate fields FAS Instrument Code and FAS Sector Code.
 
 ## Post some financial transactions
 

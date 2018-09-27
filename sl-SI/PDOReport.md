@@ -16,8 +16,8 @@ This topic describes how to prepare PD-O report and prepare the xml data file ac
 ## Populate master tables wih VAT Business Posting Group and VAT Product Posting Group
 
 1. On Customer and Vendor cards populate fields Country/Region Code and VAT Business Posting Group.
-2. On relevatnt G/L Account cards populate fields VAT Business Posting Group and VAT Product Posting Group.
-3. On relevatnt Items cards populate field VAT Product Posting Group.
+2. On relevant G/L Account cards populate fields VAT Business Posting Group and VAT Product Posting Group.
+3. On relevant Items cards populate field VAT Product Posting Group.
 
 ## Post some financial transactions
 

@@ -16,8 +16,8 @@ This topic describes how to prepare VIES report and prepare the xml data file ac
 ## Populate master tables 
 
 1. On Customer and Vendor cards populate fields Country/Region Code and VAT Business Posting Group.
-2. On relevatnt G/L Account cards populate fields VAT Business Posting Group and VAT Product Posting Group.
-3. On relevatnt Items cards populate field VAT Product Posting Group.
+2. On relevant G/L Account cards populate fields VAT Business Posting Group and VAT Product Posting Group.
+3. On relevant Items cards populate field VAT Product Posting Group.
 
 ## Post some financial transactions
 
@@ -25,7 +25,7 @@ This topic describes how to prepare VIES report and prepare the xml data file ac
 - Enter VAT Correction Date on documents, which means, for which VAT date transactions, which are corrected with this document, were previously reported (period for correction is calculated from this date). 
 - On lines choose appropriate VAT Product Posting Group and VAT Business Posting Group.
 - Set a check mark in EU 3-Party Trade if transactions from the document need to be reported in VIES as 3-Party Trade. 
-- Set a check mark in EU Customes Procedure, if transactions from document need to be reported in VIES as transactions from special customs procedures.
+- Set a check mark in EU Customs Procedure, if transactions from document need to be reported in VIES as transactions from special customs procedures.
 
 2. Post sales and purchase documents (Invoice, Credit Memos etc.). 
 3. Post general journals
