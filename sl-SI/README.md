@@ -26,6 +26,8 @@ The following topics describe local functionality that is unique to the Slovenia
 
 [BST Report](BSTReport.md)<br>
 
+[KRD Report](KRDReport.md)<br>
+
 ## See also
 
 [Working with Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/ui-work-product)
