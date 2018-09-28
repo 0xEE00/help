@@ -15,7 +15,7 @@ GL Export lists amounts that you have collected for all G/L Accounts.
 4. Enter Date Filter to filter General Ledger Entries.
 5. Choose button OK to export TXT file.
 
-## Export G/L Accounts
+## Export VAT Books
 
 1. Open VAT Books.
 2. Choose Export to TXT on Report button.
