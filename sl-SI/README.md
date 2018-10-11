@@ -8,7 +8,7 @@ The following topics describe local functionality that is unique to the Slovenia
 
 [Export G/L and VAT](ExportGLandVAT.md)<br>
 
-[VAT Date](/Adriatic/VATDate.md)<br>
+[VAT Date](../Adriatic/VATDate.md)<br>
 
 [Informative VAT](InformativeVAT.md)<br>
 
