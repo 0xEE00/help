@@ -38,4 +38,4 @@ This topic describes posting of VAT Identifier when posting VAT entries for cert
 1. Go to Posted Purchase Invoice.
 2. Choose Navigate Button.
 3. Open VAT Entry that is posted for Purchase Invoice.  
-4. Check VAT Identifier for posted VAT Entry. VAT Identifier was transferred from VAT Posting Setup.
+4. Check VAT Identifier for posted VAT Entry. VAT Identifier was transferred from VAT Posting Setup. 
