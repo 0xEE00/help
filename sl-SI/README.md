@@ -10,6 +10,8 @@ The following topics describe local functionality that is unique to the Slovenia
 
 [VAT Date](../Adriatic/VATDate.md)<br>
 
+[VAT Identifier](../Adriatic/VATIdentifier.md)<br>
+
 [Informative VAT](InformativeVAT.md)<br>
 
 [Sales Documents](../Adriatic/SalesDocuments.md)<br>
