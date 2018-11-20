@@ -10,6 +10,8 @@ The following topics describe local functionality that is unique to the Serbian 
 
 [VAT Identifier](../Adriatic/VATIdentifier.md)<br>
 
+[Reverse Charge Posting](../Adriatic/ReverseChargePosting.md)<br>
+
 [Sales Documents](../Adriatic/SalesDocuments.md)<br>
 
 [Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)<br>

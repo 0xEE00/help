@@ -3,6 +3,17 @@
 Most financial transactions are posted to the general ledger as they are entered on documents or journals. For example if Amount is entered on Journal window in Debit Amount, than amount is posted on Debit Amount in General Ledger Entry.
 For some accounts there is need to post amount only on one side, for example Credit amount. For this cases we can set posting only for certain side on G/L Account card.
 
+## Assisted Setup
+
+To enable Forced Debit or Credit posting functionality you need to set Adriatic Localization that can be accessed through Assisted Setup.
+
+1. Open Assisted Setup.
+2. Choose Set up basic Adriatic Localization.
+3. Program opens wizard where you accept warning & privacy note for extension.
+4. Go to Next page.
+5. Set option Adriatic Localization Enabled on CORE SETUP section.
+6. Set option Force Debit/Credit on GENERAL LEDGER section.
+
 ## Setup default posting on G/L Account Card
 
 1. Open G/L Account Card.
