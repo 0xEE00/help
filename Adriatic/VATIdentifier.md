@@ -15,7 +15,7 @@ This topic describes posting of VAT Identifier when posting VAT entries for cert
 ## Post Sales Invoice
 
 1. Open Sales document.
-2. Enter data about customer and items. 
+2. Enter data about Customer Number, Posting Date, Document Date and choose items in lines. 
 3. Choose VAT Product Posting Group that has entered VAT Identifier for combination with VAT Business Posting Group.
 4. Post Sales Invoice.
 
@@ -24,4 +24,18 @@ This topic describes posting of VAT Identifier when posting VAT entries for cert
 1. Go to Posted Sales Invoice.
 2. Choose Navigate Button.
 3. Open VAT Entry that is posted for Sales Invoice.  
-4. Check VAT Identifier for posted VAT Entry.
+4. Check VAT Identifier for posted VAT Entry. VAT Identifier was transferred from VAT Posting Setup.
+
+## Post Purchase Invoice
+
+1. Open Purchase document.
+2. Enter data about Vendor Number, Posting Date, Document Date and choose items in lines. 
+3. Choose VAT Product Posting Group that has entered VAT Identifier for combination with VAT Business Posting Group.
+4. Post Purchase Invoice.
+
+## Posted Purchase Invoice
+
+1. Go to Posted Purchase Invoice.
+2. Choose Navigate Button.
+3. Open VAT Entry that is posted for Purchase Invoice.  
+4. Check VAT Identifier for posted VAT Entry. VAT Identifier was transferred from VAT Posting Setup.

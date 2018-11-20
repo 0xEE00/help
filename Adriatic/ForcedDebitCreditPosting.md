@@ -34,3 +34,27 @@ Credit|Posting all general ledger entries only in Credit Amount.
 
 1. Open General Ledger Entries.
 2. Check if amount is posted on Debit or Credit Amount, that was set on G/L Account Card as default posting.
+
+## Post Sales Credit Memo
+
+1. Open Sales credit memo and create new document.
+2. Enter data about customer number, posting date, document date on General FastTab and choose G/L Account and all needed data on Lines FastTab. 
+3. Post Sales Credit memo by choosing post on action.
+
+## Check Posted Purchase Credit Memo
+
+1. Go to Posted Sales Credit Memo. Open document.
+2. Choose button Navigate and open General Ledger Entries.
+3. Amounts are posted on Debit or Credit Amount, as defined on G/L Account Card.
+
+## Post Purchase Credit Memo
+
+1. Open Purchase credit memo and create new document.
+2. Enter data about vendor number, posting date, document date on General FastTab and choose G/L Account and all needed data on Lines FastTab. 
+3. Post Purchase credit memo by choosing post on action.
+
+## Check Posted Purchase Credit Memo
+
+1. Go to Posted Purchase Credit Memo. Open document.
+2. Choose button Navigate and open General Ledger Entries.
+3. Amounts are posted on Debit or Credit Amount, as defined on G/L Account Card.
