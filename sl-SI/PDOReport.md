@@ -2,13 +2,32 @@
 
 This topic describes how to prepare PD-O report and prepare the xml data file according to Slovene legislation.
 
-## Check and adjust setups
+## Assisted Setup
 
-1. Open PDO Setup page. Populate fields PDO Report No. Series, Prep. By User ID, Resp. User ID. Enter PDO VAT Identifier Filter Code.
+To enable PDO Report functionality you need to set up fields in advanced Adriatic Localization that can be accessed through Assisted Setup.
 
-2. Open User Setup page and on relevant users populate fields Reporting Name, Reporting E-mail, Reporting Phone, Reporting Position.
+1. Open Assisted Setup.
+2. Choose Set up advanced Adriatic Localization.
+3. Program opens wizard.
+4. Go to Next page.
+5. Choose localization country SI.
+6. Enable option PDO enabled.
+7. Go to next page.
+8. Check or correct data about company.
+9. Go to next page.
+10. Choose PDO Report No. Series to create PDO reports.
+11. Choose PDO Prepared by user ID that will prepare PDO reports when exporting XML file to authorities.
+12. Choose PDO Responsible user ID that will be responsible for PDO reports when exporting XML file to authorities.
+13. Enter VAT Ident. Filter Code that will be used to filter VAT Entries in PDO Report. 
 
-3. Open VAT Posting Setup and insert or adjust relevant records. For combination of VAT Business Posting Group and VAT Product Posting Group:
+## User Setup
+
+1. Open User Setup page.
+2. Populate fields Reporting Name, Reporting E-mail, Reporting Phone, Reporting Position on relevant users.
+
+## VAT Posting Setup
+
+1. Open VAT Posting Setup and insert or adjust relevant records. For combination of VAT Business Posting Group and VAT Product Posting Group:
 - Enter VAT % (informative) for combination.
 - Field VAT Calculation Type should be Normal VAT and field VAT % should be 0.
 - Enter Sales VAT Account, VAT Identifier.

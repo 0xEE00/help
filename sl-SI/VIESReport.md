@@ -2,13 +2,35 @@
 
 This topic describes how to prepare VIES report and prepare the xml data file according to local legislation.
 
-## Check and adjust setups
+## Assisted Setup
 
-1. Open VIES Setup page. Populate fields VIES Report No. Series, VIES Resp. User ID, VIES Prep. By User ID. Choose Default VIES Country (Slovenia and Croatia) and VIES Type, if Default VIES Country is Croatia. Enter VIES Company Branch Code (or 00000).
+To enable VIES Report functionality you need to set up fields in advanced Adriatic Localization that can be accessed through Assisted Setup.
 
-2. Open User Setup page and on relevant users populate fields Reporting Name, Reporting E-mail, Reporting Phone, Reporting Position.
+1. Open Assisted Setup.
+2. Choose Set up advanced Adriatic Localization.
+3. Program opens wizard.
+4. Go to Next page.
+5. Choose localization country SI.
+6. Enable option VIES enabled.
+7. Go to next page.
+8. Check or correct data about company.
+9. Go to next page.
+10. Choose Default VIES County from options Slovenia or Croatia.
+11. Choose Default VIES Type from options ZP or PDV-S if Croatia is set in field VIES Country.
+12. Enter VIES Company Branch Code if company has Branch or enter 00000.
+10. Choose VIES Report No. Series to create VIES reports.
+11. Choose VIES Prepared by user ID that will prepare VIES reports when exporting XML file to authorities.
+12. Choose VIES Responsible user ID that will be responsible for VIES reports when exporting XML file to authorities. 
 
-3. Open VAT Posting Setup and insert or adjust relevant records. For combination of VAT Business Posting Group and VAT Product Posting Group:
+## User Setup
+
+1. Open User Setup page.
+2. Populate fields Reporting Name, Reporting E-mail, Reporting Phone, Reporting Position on relevant users.
+
+## VAT Setup
+
+1. Open VAT Posting Setup and insert or adjust relevant records. 
+2. For combination of VAT Business Posting Group and VAT Product Posting Group:
 - Enter VAT %, VIES Goods and EU Service. 
 - Field VAT Calculation Type should be Normal VAT. 
 - Enter Sales VAT Account and Purchase VAT Account.

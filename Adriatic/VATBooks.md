@@ -4,6 +4,8 @@ This topic describes the reports in Business Central that you can use to submit 
 
 VAT Books functionality is used in addition to the periodic VAT statements that company submit in order to settle VAT. Tax Authority requires to submit periodic reports of transactions including VAT. VAT books for Tax Authority and internal demand can be created through VAT books setup. Primary aim of this feature was to simplify and improve application setup and make it user friendly.
 
+Functionality is enabled when extension is installed.
+
 ## Add Dynamic Request Fields
 
 1. Open Dynamic Request Page Fields.

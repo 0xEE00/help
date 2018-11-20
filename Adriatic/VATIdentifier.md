@@ -2,6 +2,8 @@
 
 This topic describes posting of VAT Identifier when posting VAT entries for certain combination of VAT Product Posting Group and VAT Business Posting Group from VAT Posting Setup that is entered on unposted document to VAT Entries.
 
+Functionality is enabled when extension is installed.
+
 ## VAT Identifier
 
 1. Open page VAT Identifiers.

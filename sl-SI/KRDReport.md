@@ -2,10 +2,30 @@
 
 This topic describes how to prepare KRD report and prepare the xml data file as required by Bank of Slovenia for certain business entities which do business with foreign countries.
 
-## Check and adjust setups
+## Assisted Setup
 
-1. Open KRD Setup page. Populate fields KRD Report No. Series, KRD Resp. User ID, KRD Prep. By User ID, Default KRD Affiliation Type, KRD Blank LCY Code, KRD Blank LCY Num.
-2. Open User Setup page and on relevant users populate fields Reporting Name, Reporting E-mail, Reporting Phone, Reporting Position.
+To enable KRD Report functionality you need to set up fields in advanced Adriatic Localization that can be accessed through Assisted Setup.
+
+1. Open Assisted Setup.
+2. Choose Set up advanced Adriatic Localization.
+3. Program opens wizard.
+4. Go to Next page.
+5. Choose localization country SI.
+6. Enable option KRD enabled.
+7. Go to next page.
+8. Check or correct data about company.
+9. Go to next page.
+10. Choose KRD Report No. Series to create KRD reports.
+11. Choose KRD Responsible user ID that will be responsible for KRD reports when exporting XML file to authorities.
+12. Choose KRD Prepared by user ID that will prepare KRD reports when exporting XML file to authorities.
+13. Choose Default KRD Affiliation Type that applies to company and will be exported to XML file.
+14. Enter KRD Blank LCY Code that will be used for exporting entries that are posted with blank currency. 
+15. Enter KRD Blank LCY Num that will be used for exporting entries that are posted with blank currency.
+
+## User Setup
+
+1. Open User Setup page. 
+2. Populate fields Reporting Name, Reporting E-mail, Reporting Phone, Reporting Position on relevant users.
 
 ## Check and insert KRD code lists
 

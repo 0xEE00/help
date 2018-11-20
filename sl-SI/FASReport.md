@@ -2,10 +2,30 @@
 
 This topic describes how to prepare FAS report and prepare the xml data file as required by AJPES (Agency of the Republic of Slovenia for Public Legal Records and Related Services).
 
-## Check and adjust setups
+## Assisted Setup
 
-1. Open FAS Setup page. Populate fields FAS Report No. Series, FAS Resp. User ID, FAS Prep. By User ID, FAS Director User Id, Budget User Code, Company Sector Code.
-2. Open User Setup page and on relevant users populate fields Reporting Name, Reporting E-mail, Reporting Phone, Reporting Position.
+To enable FAS Report functionality you need to set up fields in advanced Adriatic Localization that can be accessed through Assisted Setup.
+
+1. Open Assisted Setup.
+2. Choose Set up advanced Adriatic Localization.
+3. Program opens wizard.
+4. Go to Next page.
+5. Choose localization country SI.
+6. Enable option FAS enabled.
+7. Go to next page.
+8. Check or correct data about company.
+9. Go to next page.
+10. Choose FAS Report No. Series to create FAS reports.
+11. Choose FAS Responsible user ID that will be responsible for FAS reports when exporting XML file to authorities.
+12. Choose FAS Prepared by user ID that will prepare FAS reports when exporting XML file to authorities.
+13. Choose FAS Director by user ID that will prepare FAS reports when exporting XML file to authorities.
+14. Enter Budget User Code that will be exported to XML file.
+15. Enter Company Sector Code of company that will be exported to XML file.
+
+## User Setup
+
+1. Open User Setup page.
+2. Populate fields Reporting Name, Reporting E-mail, Reporting Phone, Reporting Position on relevant users.
 
 ## Check and insert FAS code lists
 

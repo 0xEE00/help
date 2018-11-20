@@ -2,6 +2,8 @@
 
 This topic describes posting of Informative VAT in Sales invoices that enables printing of VAT for informative purposes in accordance with the 76. Article of Slovenian Value Added Tax Act. In this case VAT is not calculated and posted, but only printed in two additional columns of VAT Amount Specification: Informative VAT % and Informative VAT amount. 
 
+Functionality is enabled when extension is installed.
+
 ## VAT Posting Setup
 
 1. Open VAT Posting Setup.

@@ -7,6 +7,8 @@ You can use the following reports :
 VAT Books lists the value added tax (VAT) amounts that you have collected for sales and purchase.
 GL Export lists amounts that you have collected for all G/L Accounts.
 
+Functionality is enabled when extension is installed.
+
 ## Export G/L Accounts
 
 1. Open Chart of Accounts.

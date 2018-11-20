@@ -2,6 +2,8 @@
 
 Return Orders are posted as return of goods on sales or purchase side, but sometimes, Sales Returns should be shown in VAT Purchase Book and Purchase Returns in VAT Sales Book in accordance to Value Added Tax Law.
 
+Functionality is enabled when extension is installed.
+
 ## Setup default Goods Return Types
 
 1. Open Goods Return Types.

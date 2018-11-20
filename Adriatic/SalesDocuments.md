@@ -2,6 +2,8 @@
 
 This topic describes the sales reports in Business Central that must meet local legislation. Each country has obligatory fields that must be printed on sales documents.
 
+Functionality is enabled when extension is installed.
+
 ## Report Selection
 
 To use new reports, you need to change report numbers on Report Selection page.
