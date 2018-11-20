@@ -1,10 +1,10 @@
 # How To: View VAT Identifier on VAT Entries
 
-This topic describes posting of VAT Identifier when posting VAT entries from VAT Posting Setup to VAT Entries.
+This topic describes posting of VAT Identifier when posting VAT entries for certain combination of VAT Product Posting Group and VAT Business Posting Group from VAT Posting Setup that is entered on unposted document to VAT Entries.
 
 ## Assisted Setup
 
-To enable VAT Identifier functionality you need to enable Adriatic Localization that can be accessed through Assisted Setup.
+To enable VAT Identifier functionality you need to set Adriatic Localization that can be accessed through Assisted Setup.
 
 1. Open Assisted Setup.
 2. Choose Set up basic Adriatic Localization.
