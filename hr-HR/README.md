@@ -14,6 +14,8 @@ The following topics describe local functionality that is unique to the Croatian
 
 [Postponed VAT](../Adriatic/PostponedVAT.md)<br>
 
+[Full VAT Posting](../Adriatic/FullVATPosting.md)<br>
+
 [Sales Documents](../Adriatic/SalesDocuments.md)<br>
 
 [Unpaid Receivables](UnpaidReceivables.md)<br>
