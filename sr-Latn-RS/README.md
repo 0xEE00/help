@@ -4,7 +4,7 @@ The following topics describe local functionality that is unique to the Serbian 
 
 ## In This Section
 
-# VAT Posting
+## VAT Posting
 
 [VAT Reporting](../Adriatic/VATBooks.md)<br>
 
@@ -16,7 +16,7 @@ The following topics describe local functionality that is unique to the Serbian 
 
 [Postponed VAT](../Adriatic/PostponedVAT.md)<br>
 
-# Sales and purchase
+## Sales and purchase
 
 [Sales Documents](../Adriatic/SalesDocuments.md)<br>
 
