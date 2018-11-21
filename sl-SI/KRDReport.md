@@ -21,6 +21,7 @@ To enable KRD Report functionality you need to set up fields in advanced Adriati
 13. Choose Default KRD Affiliation Type that applies to company and will be exported to XML file.
 14. Enter KRD Blank LCY Code that will be used for exporting entries that are posted with blank currency. 
 15. Enter KRD Blank LCY Num that will be used for exporting entries that are posted with blank currency.
+16. Choose button Finish to confirm setup.
 
 ## User Setup
 

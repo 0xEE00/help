@@ -14,6 +14,7 @@ To enable VAT Date functionality you need to set field "VAT Enabled" on table Co
 4. Go to Next page.
 5. Set option Adriatic Localization Enabled on CORE SETUP section.
 6. Set option VAT enabled on VAT section.
+7. Choose button Finish to confirm setup.
 
 ## Report Selection
 

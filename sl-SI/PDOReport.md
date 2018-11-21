@@ -19,6 +19,7 @@ To enable PDO Report functionality you need to set up fields in advanced Adriati
 11. Choose PDO Prepared by user ID that will prepare PDO reports when exporting XML file to authorities.
 12. Choose PDO Responsible user ID that will be responsible for PDO reports when exporting XML file to authorities.
 13. Enter VAT Ident. Filter Code that will be used to filter VAT Entries in PDO Report. 
+14. Choose button Finish to confirm setup.
 
 ## User Setup
 

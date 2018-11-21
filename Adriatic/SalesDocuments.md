@@ -11,6 +11,7 @@ To use new reports, you need to change report numbers on Report Selection page.
 2. Choose option Invoice on field Usage. Enter Report ID 13062751 to print Sales Invoice with additional data.
 3. Choose option Credit Memo on field Usage. Enter Report ID 13062752 to print Sales Credit Memo with additional data.
 4. Choose option Shipment on field Usage. Enter Report ID 13062753 to print Shipment with additional data.
+5. Choose button Finish to confirm setup.
 
 ## Print Sales Invoice
 

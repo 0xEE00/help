@@ -2,6 +2,22 @@
 
 This topic describes the report in Business Central that you can use to prepare information about Customer overdue and unpaid receivables to Tax authorities. For this purpose, the government has made form that is called OPZ-STAT-1 (Overdue and uncollected receivables). The report contains data on issued invoices which were not collected/paid within the legal or agreed period.
 
+## Assisted Setup
+
+To enable Unpaid Receivables functionality you need to set up fields in advanced Adriatic Localization that can be accessed through Assisted Setup.
+
+1. Open Assisted Setup.
+2. Choose Set up advanced Adriatic Localization.
+3. Program opens wizard.
+4. Go to Next page.
+5. Choose localization country HR.
+6. Enable option Unpaid Receivables Enabled.
+7. Go to next page.
+8. Check or correct data about company.
+9. Go to next page.
+10. Enter Data Start Balance Date that will be used for overdue and unpaid receivables.
+11. Choose button Finish to confirm setup.
+
 ## Setup Date for Unpaid Receivables
 
 1. Open Sales & Receivables Setup.

@@ -13,6 +13,7 @@ To enable Forced Debit or Credit posting functionality you need to set Adriatic 
 4. Go to Next page.
 5. Set option Adriatic Localization Enabled on CORE SETUP section.
 6. Set option Force Debit/Credit on GENERAL LEDGER section.
+7. Choose button Finish to confirm setup.
 
 ## Setup default posting on G/L Account Card
 

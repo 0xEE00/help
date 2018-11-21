@@ -18,6 +18,7 @@ To enable BST Report functionality you need to set up fields in advanced Adriati
 10. Choose BST Report No. Series to create BST reports.
 11. Choose BST Prepared by user ID that will prepare BST reports when exporting XML file to authorities.
 12. Choose BST Responsible user ID that will be responsible for BST reports when exporting XML file to authorities.
+13. Choose button Finish to confirm setup.
 
 ## User Setup
 

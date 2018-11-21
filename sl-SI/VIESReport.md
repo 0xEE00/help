@@ -18,9 +18,10 @@ To enable VIES Report functionality you need to set up fields in advanced Adriat
 10. Choose Default VIES County from options Slovenia or Croatia.
 11. Choose Default VIES Type from options ZP or PDV-S if Croatia is set in field VIES Country.
 12. Enter VIES Company Branch Code if company has Branch or enter 00000.
-10. Choose VIES Report No. Series to create VIES reports.
-11. Choose VIES Prepared by user ID that will prepare VIES reports when exporting XML file to authorities.
-12. Choose VIES Responsible user ID that will be responsible for VIES reports when exporting XML file to authorities. 
+13. Choose VIES Report No. Series to create VIES reports.
+14. Choose VIES Prepared by user ID that will prepare VIES reports when exporting XML file to authorities.
+15. Choose VIES Responsible user ID that will be responsible for VIES reports when exporting XML file to authorities. 
+16. Choose button Finish to confirm setup.
 
 ## User Setup
 

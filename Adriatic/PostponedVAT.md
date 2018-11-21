@@ -12,7 +12,8 @@ To enable Postponed VAT functionality you need to set field "VAT Enabled" and "U
 4. Go to Next page.
 5. Set option Adriatic Localization Enabled on CORE SETUP section.
 6. Set option VAT enabled on VAT section.
-6. Set option Use VAT Output Date on VAT section.
+7. Set option Use VAT Output Date on VAT section.
+8. Choose button Finish to confirm setup.
 
 ## Post Purchase Invoice for domestic vendor
 

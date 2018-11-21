@@ -21,6 +21,7 @@ To enable FAS Report functionality you need to set up fields in advanced Adriati
 13. Choose FAS Director by user ID that will prepare FAS reports when exporting XML file to authorities.
 14. Enter Budget User Code that will be exported to XML file.
 15. Enter Company Sector Code of company that will be exported to XML file.
+16. Choose button Finish to confirm setup.
 
 ## User Setup
 
