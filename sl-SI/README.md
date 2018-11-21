@@ -16,6 +16,8 @@ The following topics describe local functionality that is unique to the Slovenia
 
 [Reverse Charge Posting](../Adriatic/ReverseChargePosting.md)<br>
 
+[Postponed VAT](../Adriatic/PostponedVAT.md)<br>
+
 [Sales Documents](../Adriatic/SalesDocuments.md)<br>
 
 [Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)<br>

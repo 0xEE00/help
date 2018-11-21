@@ -4,6 +4,8 @@ The following topics describe local functionality that is unique to the Serbian 
 
 ## In This Section
 
+# VAT POSTING
+
 [VAT Reporting](../Adriatic/VATBooks.md)<br>
 
 [VAT Date](../Adriatic/VATDate.md)<br>
@@ -12,9 +14,15 @@ The following topics describe local functionality that is unique to the Serbian 
 
 [Reverse Charge Posting](../Adriatic/ReverseChargePosting.md)<br>
 
+[Postponed VAT](../Adriatic/PostponedVAT.md)<br>
+
+# SALES AND PURCHASE
+
 [Sales Documents](../Adriatic/SalesDocuments.md)<br>
 
 [Forced Debit/Credit Posting](../Adriatic/ForcedDebitCreditPosting.md)<br>
+
+# GENERAL LEDGER
 
 [Return Orders](ReturnOrders.md)
 
