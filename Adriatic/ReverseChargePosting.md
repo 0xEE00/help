@@ -1,10 +1,10 @@
 # How To: Post documents with reverse charge VAT in two entries
 
-This topic describes how to post documents for Reverse Charge VAT in two entries.
+This topic describes how to post documents for Reverse Charge VAT in two entries. When posting with standard Reverse VAT functionality program posts only Type Purchase VAT Entry, but this functionality enables posting of reverse VAT in two entries one with type Purchase and another with type Sale. 
 
 ## Assisted Setup
 
-To enable Reverse Charge Posting functionality you need to set field "VAT Enabled" and "Use VAT Output Date"  on table Core Setup that can be accessed through Assisted Setup.
+To enable Reverse Charge Posting functionality you need to set field "VAT Enabled" and "Use VAT Output Date" on table Core Setup that can be accessed through Assisted Setup.
 
 1. Open Assisted Setup.
 2. Choose Set up basic Adriatic Localization.

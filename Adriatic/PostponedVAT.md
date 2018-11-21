@@ -1,6 +1,6 @@
 # How To: Post documents with VAT Date that is different than Posting Date
 
-This topic describes how to post documents for VAT Date in different period.
+This topic describes how to post documents for VAT Date in different period. When posting standard there is no possibility to post VAT Entry in different period than is entered in Posting Date.
 
 ## Assisted Setup
 

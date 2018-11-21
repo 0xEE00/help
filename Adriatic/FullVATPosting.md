@@ -1,6 +1,6 @@
 # How To: Post documents with VAT Date that is different than Posting Date
 
-This topic describes how to post documents for VAT Date in different period.
+This topic describes how to post information about VAT Base amount when posting with Full VAT combination form VAT Posting Setup.
 
 Functionality is enabled when extension is installed.
 
