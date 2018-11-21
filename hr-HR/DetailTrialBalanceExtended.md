@@ -2,6 +2,8 @@
 
 According to Croatian Accounting Law from 01.01.2016 every transaction that is posted in G/L Register needs to have Posting Responsible person and Posting Approver.
 
+Functionality is enabled when extension is installed.
+
 ## Setup Approver and Responsible Person
 
 1.	Open General Ledger Setup window.
