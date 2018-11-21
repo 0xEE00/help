@@ -17,7 +17,7 @@ To enable VAT Date functionality you need to set field "VAT Enabled" on table Co
 
 ## Report Selection
 
-To view reports with added VAT Date you need to change report numbers on Report Selection page.
+To view reports with added VAT Date you need to change report numbers on Report Selection page that is part of Sales Documents functionality.
 1. Open page Report Selection - Sales.
 2. Choose option Invoice on field Usage. Enter Report ID 13062751 to print Sales Invoice with additional data.
 3. Choose option Credit Memo on field Usage. Enter Report ID 13062752 to print Sales Credit Memo with additional data.
