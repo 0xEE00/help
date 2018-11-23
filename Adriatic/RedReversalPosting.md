@@ -1,6 +1,6 @@
 # How To: Post documents as Red Reversal
 
-This topic describes posting of Red reversal when posting as red storno of purchase or sales documents.
+This topic describes posting of correction purchase and sales documents as red reversal when expected costs to G/L is enabled.
 
 Functionality is enabled when extension is installed.
 
@@ -9,22 +9,42 @@ Functionality is enabled when extension is installed.
 1. Open General Ledger Setup.
 2. In field Show Amounts choose option All Amounts.
 
-## Post Purchase Invoice
+### Inventory Setup
 
-1. Open Purchase Invoice and create new document.
+1. Open Inventory Setup
+2. Set field Post Neg. Transfers as Corr.
+3. Set field Expected Cost posting to G/L.
+
+## Post Purchase Receipt
+
+1. Open Purchase Order and create new document.
 2. Enter data about vendor number, posting date, document date on General FastTab and choose items and all needed data on Lines FastTab. 
-3. Post Purchase Invoice by choosing post on action.
+3. Post Purchase Receipt by choosing post Receipt on action.
 
-## Post Purchase Credit Memo
+### Undo Posted Purchase Receipt
 
-1. Open Purchase Credit Memo and create new document.
-2. Choose Copy Document function.
-3. Choose previously posted Purchase Invoice to copy all data from posted purchase invoice.
-4. Check data about vendor number, posting date, document date on General FastTab and enter additional data for posting credit memo. 
-5. Post Purchase Credit Memo by choosing post on action.
+1. Open previously posted receipt.
+2. Choose option Undo Receipt on button Functions to post correction of posted receipt.
 
-## Check Posted Purchase Invoice
+## Check Posted Purchase Receipt
 
-1. Go to Posted Purchase Invoice. Open document.
-2. Choose button Navigate option on Invoice button for posted Purchase Invoice. 
-3. Open General Ledger Entries for posted purchase invoice. Program posted all ledger entries as storno of original posted purchase invoice.
+1. Go to Posted Purchase Receipt. Open document.
+2. Choose button Navigate option on Process button. 
+3. Open General Ledger Entries for posted purchase receipt. Program posted all ledger entries that were posted for expected costs as red reversal of original posted purchase invoice.
+
+## Post Sales Shipment
+
+1. Open Sales Order and create new document.
+2. Enter data about customer number, posting date, document date on General FastTab and choose items and all needed data on Lines FastTab. 
+3. Post Shipment by choosing post Ship on action.
+
+### Undo Posted Sales Shipment
+
+1. Open previously posted shipment.
+2. Choose option Undo Shipment on button Functions to post correction of posted shipment.
+
+## Check Posted Sales Shipment
+
+1. Go to Posted Sales Shipment. Open document.
+2. Choose button Navigate option on Process button. 
+3. Open General Ledger Entries for posted Sales Shipment. Program posted all ledger entries as red reversal of original posted Sales Shipment.
