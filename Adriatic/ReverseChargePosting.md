@@ -27,4 +27,15 @@ To enable Reverse Charge Posting functionality you need to set field "VAT Enable
 1. Go to Posted Purchase Invoice. Open document.
 2. Check field VAT Date and VAT Output Date on General FastTab that was transferred during posting from unposted purchase invoice.
 3. Choose button Navigate and open VAT Entries for posted purchase invoice.
-4. Program posted additional VAT entry for posting Reverse VAT. Standard functionality enables posting only one VAT Entry for Reverse VAT.
+4. Program posted additional VAT entry for posting Reverse VAT with Type Sale. Standard functionality enables posting only one VAT Entry for Reverse VAT with Type Purchase.
+
+### Posting VAT Entry for Reverse VAT in a standard way
+Posting Date|Type|Amount|Base
+-:|-:|-:|-:
+20.08.18|Purchase|200,00|1.000,00
+
+### Posting VAT Entry for Reverse VAT in a improved way
+Posting Date|Type|Amount|Base
+-:|-:|-:|-:
+20.08.18|Purchase|200,00|1.000,00
+20.08.18|Sale|-200,00|-1.000,00
