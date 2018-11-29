@@ -76,9 +76,9 @@ D-DA|B-22|12|Purchase
 3.	Choose General Posting Type, General Product Posting Group and General Business Posting Group.
 4.	Choose VAT Product Posting Group and VAT Business Posting Group that was previously created.
 
-    Account Type|Account No.|Gen. Posting Type|General Bus. Posting Group|General Prod. Posting Group|VAT Bus. Posting Group|VAT Prod. Posting Group|Amount|Bal. Account Type|Bal. Account No.
-    ------------|-----------|-----------------|--------------------------|---------------------------|----------------------|-----------------------|------|-----------------|----------------
-    G/L Account|760010|Sale|D-DA|B-SPL|D-DA|B-22|100,00|Customer|Customer No.
+ Account Type|Account No.|Gen. Posting Type|General Bus. Posting Group|General Prod. Posting Group|VAT Bus. Posting Group|VAT Prod. Posting Group|Amount|Bal. Account Type|Bal. Account No.
+ ------------|-----------|-----------------|--------------------------|---------------------------|----------------------|-----------------------|------|-----------------|----------------
+ G/L Account|760010|Sale|D-DA|B-SPL|D-DA|B-22|100,00|Customer|Customer No.
 
 5.	Post Journal.
 6.	Open VAT Entries for Journal and check VAT Identifier. VAT Identifier was transferred from VAT Posting Setup.
