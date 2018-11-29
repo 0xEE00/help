@@ -20,30 +20,31 @@ K-DA|ODB-9,5|35|0|9,5|260910
 2. Enter data about customer and items. 
 3. Choose VAT Product Posting Group that applies to informative VAT.
 4. Enter Unit price excl. VAT.
-4. Post Sales Invoice.
+5. Post Sales Invoice.
 
 VAT Bus. Posting Group|VAT Prod. Posting Group|Unit price excl. VAT
 ----------------------|-----------------------|--------------------
 K-DA|ODB-22|1.000,00
 
-## Print Sales Invoice
+## Check posted entries on Sales Invoice
 
-1. Go to Posted Sales Invoice and check entries.
-
-Check posted General Ledger Entries.
+1. Go to Posted Sales Invoice.
+2. Check posted General Ledger Entries.
 
 G/L Account No.|Amount
 ---------------|------
 760010|-1.000,00
 120010| 1.000,00
 
-Check VAT Entries.
+3. Check VAT Entries.
 
 VAT Bus. Posting Group|VAT Prod. Posting Group|Type|Base|Amount
 ----------------------|-----------------------|----|----|------
 K-DA|ODB-22|Sale|1.000,00|0,00
 
-2. Choose Print action and check VAT Specification about Informative VAT on printout.
+## Print Sales Invoice
+
+1. Choose Print action and check VAT Specification about Informative VAT on printout.
 
 VAT %|VAT Amount Exl. VAT|VAT Amount|Amount Incl. VAT|VAT % Informative|VAT Amount (Informative)
 -:|-:|-:|-:|-:|-:

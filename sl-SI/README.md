@@ -28,8 +28,6 @@ The following topics describe local functionality that is unique to the Slovenia
 
 [VIES Report](VIESReport.md)<br>
 
-[FAS Report](FASReport.md)<br>
-
 [Delivery Declaration Report](PDOReport.md)<br>
 
 [FAS Report](FASReport.md)<br>
