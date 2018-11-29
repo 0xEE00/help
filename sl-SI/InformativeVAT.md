@@ -9,10 +9,10 @@ Functionality is enabled when extension is installed.
 1. Open VAT Posting Setup.
 2. Enter VAT % (Informative) for combination that applies for this article. VAT % in tas case should be 0.
 
-VAT Bus. Posting Group|VAT Prod. Posting Group|VAT Identifier|VAT %|VAT % (Informative)|Sales VAT Account
-----------------------|-----------------------|--------------|-----|-------------------|-----------------
-K-DA|ODB-22|36|0|22|260910
-K-DA|ODB-9,5|35|0|9,5|260910
+    VAT Bus. Posting Group|VAT Prod. Posting Group|VAT Identifier|VAT %|VAT % (Informative)|Sales VAT Account
+    ----------------------|-----------------------|--------------|-----|-------------------|-----------------
+    K-DA|ODB-22|36|0|22|260910
+    K-DA|ODB-9,5|35|0|9,5|260910
 
 ## Post Sales Invoice
 
@@ -22,25 +22,25 @@ K-DA|ODB-9,5|35|0|9,5|260910
 4. Enter Unit price excl. VAT.
 5. Post Sales Invoice.
 
-VAT Bus. Posting Group|VAT Prod. Posting Group|Unit price excl. VAT
-----------------------|-----------------------|--------------------
-K-DA|ODB-22|1.000,00
+    VAT Bus. Posting Group|VAT Prod. Posting Group|Unit price excl. VAT
+    ----------------------|-----------------------|--------------------
+    K-DA|ODB-22|1.000,00
 
 ## Check posted entries on Sales Invoice
 
 1. Go to Posted Sales Invoice.
 2. Check posted General Ledger Entries.
 
-G/L Account No.|Amount
----------------|------
-760010|-1.000,00
-120010| 1.000,00
+    G/L Account No.|Amount
+    ---------------|------
+    760010|-1.000,00
+    120010| 1.000,00
 
 3. Check VAT Entries.
 
-VAT Bus. Posting Group|VAT Prod. Posting Group|Type|Base|Amount
-----------------------|-----------------------|----|----|------
-K-DA|ODB-22|Sale|1.000,00|0,00
+    VAT Bus. Posting Group|VAT Prod. Posting Group|Type|Base|Amount
+    ----------------------|-----------------------|----|----|------
+    K-DA|ODB-22|Sale|1.000,00|0,00
 
 ## Print Sales Invoice
 
