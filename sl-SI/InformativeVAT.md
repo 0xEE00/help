@@ -9,10 +9,10 @@ Functionality is enabled when extension is installed.
 1. Open VAT Posting Setup.
 2. Enter VAT % (Informative) for combination that applies for this article. VAT % in tas case should be 0.
 
-VAT Bus. Posting Group|VAT Prod. Posting Group|VAT Identifier|VAT %|VAT % (Informative)
-----------------------|-----------------------|--------------|-----|-------------------
-K-DA|ODB-22|36|0|22
-K-DA|ODB-9,5|35|0|9,5
+VAT Bus. Posting Group|VAT Prod. Posting Group|VAT Identifier|VAT %|VAT % (Informative)|Sales VAT Account
+----------------------|-----------------------|--------------|-----|-------------------|-----------------
+K-DA|ODB-22|36|0|22|260910
+K-DA|ODB-9,5|35|0|9,5|260910
 
 ## Post Sales Invoice
 
