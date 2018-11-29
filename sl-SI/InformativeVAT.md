@@ -44,7 +44,7 @@ K-DA|ODB-22|Sale|1.000,00|0,00
 
 ## Print Sales Invoice
 
-1. Choose Print action and check VAT Specification about Informative VAT on printout.
+Choose Print action and check VAT Specification about Informative VAT on printout.
 
 VAT %|VAT Amount Exl. VAT|VAT Amount|Amount Incl. VAT|VAT % Informative|VAT Amount (Informative)
 -:|-:|-:|-:|-:|-:
