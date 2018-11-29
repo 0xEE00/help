@@ -9,31 +9,32 @@ Functionality is enabled when extension is installed.
 1. Open page VAT Identifiers.
 2. Enter Code and Description for each VAT Identifier.
 
-Code|Description
-----|-----------
-12|D-DA + B-22 - ODB (8, 18)
-14|K-DA + B-22 - OBR (7,14)
+    Code|Description
+    ----|-----------
+    12|D-DA + B-22 - ODB (8, 18)
+    14|K-DA + B-22 - OBR (7,14)
 
 ## VAT Posting Setup
 
 1. Open VAT Posting Setup.
 2. Choose VAT Identifier for each combination on VAT Posting Setup.
 
-VAT Bus. Posting Group|VAT Prod. Posting Group|VAT Identifier
-----------------------|-----------------------|--------------
-D-DA|B-22|12
-K-DA|B-22|14
+    VAT Bus. Posting Group|VAT Prod. Posting Group|VAT Identifier
+    ----------------------|-----------------------|--------------
+    D-DA|B-22|12
+    K-DA|B-22|14
 
 ## Post Sales Invoice
 
 1. Open Sales document.
 2. Enter data about Customer Number, Posting Date, Document Date and choose items in lines. 
 3. Choose VAT Product Posting Group that has entered VAT Identifier for combination with VAT Business Posting Group.
-4. Post Sales Invoice.
 
-VAT Bus. Posting Group|VAT Prod. Posting Group
-----------------------|-----------------------
-K-DA|B-22
+    VAT Bus. Posting Group|VAT Prod. Posting Group
+    ----------------------|-----------------------
+    K-DA|B-22
+
+4. Post Sales Invoice.
 
 ## Check Posted Sales Invoice
 
@@ -42,9 +43,9 @@ K-DA|B-22
 3. Open VAT Entry that is posted for Sales Invoice.
 4. Check VAT Identifier for posted VAT Entry. VAT Identifier was transferred from VAT Posting Setup.
 
-VAT Bus. Posting Group|VAT Prod. Posting Group|VAT Identifier|Type
-----------------------|-----------------------|--------------|----
-K-DA|B-22|14|Sale
+    VAT Bus. Posting Group|VAT Prod. Posting Group|VAT Identifier|Type
+    ----------------------|-----------------------|--------------|----
+    K-DA|B-22|14|Sale
 
 ## Post Purchase Invoice
 
@@ -53,9 +54,9 @@ K-DA|B-22|14|Sale
 3. Choose VAT Product Posting Group that has entered VAT Identifier for combination with VAT Business Posting Group.
 4. Post Purchase Invoice.
 
-VAT Bus. Posting Group|VAT Prod. Posting Group
-----------------------|-----------------------
-D-DA|B-22
+ VAT Bus. Posting Group|VAT Prod. Posting Group
+ ----------------------|-----------------------
+ D-DA|B-22
 
 ## Posted Purchase Invoice
 
