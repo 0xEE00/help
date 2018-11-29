@@ -9,10 +9,16 @@ Functionality is enabled when extension is installed.
 1. Open page VAT Identifiers.
 2. Enter Code and Description for each VAT Identifier.
 
+Code|Description
+----|-----------
+12|D-DA + B-22 - ODB (8, 18)
+
 ## VAT Posting Setup
 
 1. Open VAT Posting Setup.
 2. Choose VAT Identifier for each combination on VAT Posting Setup.
+
+VAT Bus. Posting Group|VAT
 
 ## Post Sales Invoice
 
