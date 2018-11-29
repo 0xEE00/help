@@ -36,7 +36,7 @@ G/L Account No.|Amount
 760010|-1.000,00
 120010| 1.000,00
 
-4. Check VAT Entries.
+3. Check VAT Entries.
 
 VAT Bus. Posting Group|VAT Prod. Posting Group|Type|Base|Amount
 ----------------------|-----------------------|----|----|------
