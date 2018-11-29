@@ -78,7 +78,7 @@ D-DA|B-22|12|Purchase
 
  Account Type|Account No.|Gen. Posting Type|General Bus. Posting Group|General Prod. Posting Group|VAT Bus. Posting Group|VAT Prod. Posting Group|Amount|Bal. Account Type|Bal. Account No.
  ------------|-----------|-----------------|--------------------------|---------------------------|----------------------|-----------------------|------|-----------------|----------------
- G/L Account|760010|Sale|D-DA|B-SPL|D-DA|B-22|100,00|Customer|Customer No.
+ G/L Account|760010|Sale|D-DA|B-SPL|D-DA|B-22|100,00|Customer|Customer No. XXXXXXX
 
 5.	Post Journal.
 6.	Open VAT Entries for Journal and check VAT Identifier. VAT Identifier was transferred from VAT Posting Setup.
