@@ -13,6 +13,12 @@ To use new reports, you need to change report numbers on Report Selection page.
 4. Choose option Shipment on field Usage. Enter Report ID 13062753 to print Shipment with additional data.
 5. Choose button Finish to confirm setup.
 
+Usage|Report ID
+-----|---------
+Invoice|13062751
+Credit Memo|13062752
+Shipment|13062753
+
 ## Print Sales Invoice
 
 1. Open Posted Sales Invoice.
