@@ -27,7 +27,11 @@ Shipment|13062753
 - Date of issue,
 - Shipment Date,
 - VAT Date,
-- VAT specification (also informative VAT).
+- VAT specification (also informative VAT)
+
+VAT %|VAT Amount Exl. VAT|VAT Amount|Amount Incl. VAT|VAT % Informative|VAT Amount (Informative)
+-:|-:|-:|-:|-:|-:
+0|1.000|0,00|1.000,00|22|220,00
 
 ## Print Sales Credit Memo
 
@@ -37,7 +41,11 @@ Shipment|13062753
 - Date of issue,
 - Shipment Date,
 - VAT Date,
-- VAT specification (also informative VAT).
+- VAT specification (also informative VAT)
+
+VAT %|VAT Amount Exl. VAT|VAT Amount|Amount Incl. VAT|VAT % Informative|VAT Amount (Informative)
+-:|-:|-:|-:|-:|-:
+0|1.000|0,00|1.000,00|22|220,00
 
 ## Print Sales Shipment
 
